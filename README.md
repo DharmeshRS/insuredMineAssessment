@@ -91,7 +91,7 @@ npm install
 3. **Create environment file**
 ```bash
 # Create .env file with the following content:
-MONGODB_URI=mongodb://localhost:27017/insurance_management
+MONGODB_URI= <shared in personal> 
 PORT=3000
 NODE_ENV=development
 CPU_THRESHOLD=70
